@@ -1,0 +1,36 @@
+{
+  "name": "php-laravel-toolkit",
+  "displayName": "PHP / Laravel Extension Pack",
+  "publisher": "devastion",
+  "description": "Toolkit for PHP and Laravel development.",
+  "icon": "assets/icon.png",
+  "author": {
+    "name": "Dimitar Banev",
+    "url": "https://github.com/devastion"
+  },
+  "license": "MIT",
+  "version": "0.0.0",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "bmewburn.vscode-intelephense-client",
+    "amiralizadeh9480.laravel-extra-intellisense",
+    "austenc.laravel-blade-spacer",
+    "onecentlin.laravel-blade",
+    "ryannaddy.laravel-artisan",
+    "xdebug.php-debug"
+  ],
+  "bugs": {
+    "url": "https://github.com/devastion/vscode-extension-packs/issues",
+    "email": "banev_dimitar@mail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devastion/vscode-extension-packs.git",
+    "directory": "php-laravel-toolkit"
+  }
+}

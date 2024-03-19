@@ -1,0 +1,35 @@
+{
+  "name": "@devastion/vscode-extension-packs",
+  "version": "0.0.0",
+  "private": true,
+  "description": "VSCode Extension Packs",
+  "keywords": [
+    "vscode",
+    "extension pack"
+  ],
+  "homepage": "https://github.com/devastion/vscode-extension-packs#readme",
+  "bugs": {
+    "url": "https://github.com/devastion/vscode-extension-packs/issues",
+    "email": "banev_dimitar@mail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devastion/vscode-extension-packs.git"
+  },
+  "license": "MIT",
+  "author": "Dimitar Banev",
+  "workspaces": [
+    "php-laravel-toolkit"
+  ],
+  "scripts": {
+    "changeset": "changeset",
+    "changeset:publish": "changeset publish",
+    "changeset:version": "changeset version"
+  },
+  "devDependencies": {
+    "@changesets/changelog-github": "^0.5.0",
+    "@changesets/cli": "^2.27.1",
+    "generator-code": "^1.8.4",
+    "yo": "^5.0.0"
+  }
+}
