@@ -9,7 +9,7 @@
     "url": "https://github.com/devastion"
   },
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.87.0"
   },
@@ -18,11 +18,14 @@
   ],
   "extensionPack": [
     "bmewburn.vscode-intelephense-client",
+    "xdebug.php-debug",
     "amiralizadeh9480.laravel-extra-intellisense",
-    "austenc.laravel-blade-spacer",
     "onecentlin.laravel-blade",
-    "ryannaddy.laravel-artisan",
-    "xdebug.php-debug"
+    "codingyu.laravel-goto-view",
+    "naoray.laravel-goto-components",
+    "pgl.laravel-jump-controller",
+    "austenc.laravel-blade-spacer",
+    "ryannaddy.laravel-artisan"
   ],
   "bugs": {
     "url": "https://github.com/devastion/vscode-extension-packs/issues",
