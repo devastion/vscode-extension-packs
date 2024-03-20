@@ -1,3 +1,6 @@
+- [PHP / Laravel Extension Pack](#php--laravel-extension-pack)
+  - [Requirements](#requirements)
+
 # PHP / Laravel Extension Pack
 
 Toolkit for PHP and Laravel development.
@@ -18,7 +21,6 @@ Toolkit for PHP and Laravel development.
 {
   // Associate files with the right language
   "files.associations": {
-  ".module": "php",
   ".blade.php": "blade"
   },
   // PHP is validated from Intelephense
@@ -30,7 +32,6 @@ Toolkit for PHP and Laravel development.
   "emmet.includeLanguages": {
     "blade": "html"
   },
-  "LaravelExtraIntellisense.disableBlade": true,
   "blade.format.enable": true,
   "[blade]": {
     "emmet.triggerExpansionOnTab": true,
@@ -46,5 +47,4 @@ Toolkit for PHP and Laravel development.
 
 ## Requirements
 
-You need to install Xdebug. Follow the [official guide](https://xdebug.org/docs/install).
-
+To use Intelephense intelligence you need to disable the built in PHP Language Server (Go to `Extensions` > search `@builtin php` > disable `PHP Language Features`) . For debugging you need to install Xdebug. Follow the [official guide](https://xdebug.org/docs/install).

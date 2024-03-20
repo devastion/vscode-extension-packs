@@ -1,5 +1,11 @@
 # php-laravel-toolkit
 
+## 0.1.2
+
+### Patch Changes
+
+- Update requirements
+
 ## 0.1.0
 
 ### Minor Changes
