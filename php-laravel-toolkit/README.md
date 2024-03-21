@@ -1,9 +1,10 @@
-- [PHP / Laravel Extension Pack](#php--laravel-extension-pack)
-  - [Requirements](#requirements)
+<div align="center">
+  <h1 id="Test"><a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=devastion.php-laravel-toolkit" alt="PHP / Laravel Extension Pack VSCode Marketplace">PHP / Laravel Extension Pack</a></h1>
+  <img src="https://img.shields.io/visual-studio-marketplace/v/devastion.php-laravel-toolkit" alt="Version" /> <img src="https://img.shields.io/visual-studio-marketplace/stars/devastion.php-laravel-toolkit" alt="Stars" />
+  <img src="https://img.shields.io/visual-studio-marketplace/d/devastion.php-laravel-toolkit" alt="Downloads" />
+</div>
 
-# PHP / Laravel Extension Pack
-
-Toolkit for PHP and Laravel development.
+## Included Extensions
 
 | Extension                      | Version                                                                                                                                                                                                                                 | Rating                                                                                                                                                                                                                                     | Downloads                                                                                                                                                                                                                                 |
 | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
